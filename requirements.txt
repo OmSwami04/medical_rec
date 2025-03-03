@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+pickle
+spacy
+gunicorn
